@@ -1,6 +1,7 @@
 {
  "work": "平家物語",
  "work_id": "heike",
+ "repo": "kumoi-no-fumigura/heike-monogatari",
  "yomi": "へいけものがたり",
  "category": "軍記",
  "editions": [
@@ -2828,6 +2829,5 @@
    ],
    "text": "必"
   }
- ],
- "repo": "kumoi-no-fumigura/heike-monogatari"
+ ]
 }
